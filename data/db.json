@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new webiste",
+      "body": "This is a website I created using ReactJS, I have been practicing it for school. I am trying to learn how to use event handlers, etc. abort errors confuse the shit out of me, so I'm going to keep practicing and build another project once this is over so I don't fail my interview. Please enjoy this page, and let me know what you think. ",
+      "author": "Jamien Gerald",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "I am a dog, my name is Fitz Gerald, most people call me Gerald. I like ball, ball is good. Can you throw ball? I like to hide under the bed, I love mom and dad. Do you love my mom, and dad? They are the goodest. I like to eat a lot. Sometimes I try to eat raw onions like my hero Shrek, it makes no sense I don't even like onions. I can be bad, but mom says I am good. ",
+      "author": "Fitz Gerald",
+      "id": 2
+    },
+    {
+      "title": "Why do i deal with these two?!",
+      "body": "I am the wife of Jamien, and mother of Fitz Gerald, they drive me nuts but I love them. I need peace but they never give it to me, but I still love them, and appreciate them, even if they are goofballs. ",
+      "author": "Aly Gerald",
+      "id": 3
+    }
+  ]
+}
